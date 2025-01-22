@@ -5,12 +5,12 @@ Run the program following this flow
 Link: https://nodejs.org/en
 
 # Run backend commands:
-cd backend
-npm install
+cd backend <br>
+npm install<br>
 nodemon src/index.js
 
 # Run frontend commands:
-cd frontend
-npm install
+cd frontend<br>
+npm install<br>
 npm start
 
